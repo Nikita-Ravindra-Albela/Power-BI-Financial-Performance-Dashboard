@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📌 Project Overview
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This project was developed using sample financial data to demonstrate how Power BI can be used to analyze and visualize an organization’s financial performance.
+This project was developed using sample financial data from PowerBI sample repository to demonstrate how Power BI can be used to analyze and visualize an organization’s financial performance.
 
 The goal was to transform raw financial data into an interactive, easy-to-understand dashboard that helps stakeholders monitor key business metrics like revenue, expenses, profit, and performance across products and regions.
 
